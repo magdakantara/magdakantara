@@ -6,7 +6,6 @@ My academic and personal work focuses on applying data science techniques to rea
 
 ---
 
-## Technical Skills
 
 ## Technical Skills
 
