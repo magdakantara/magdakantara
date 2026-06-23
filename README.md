@@ -4,34 +4,6 @@ I am a Data Science student at Eindhoven University of Technology with a strong 
 
 My academic and personal work focuses on applying data science techniques to real-world problems across different domains such as healthcare, environmental analysis, and predictive modeling.
 
----
-
-
-## Technical Skills
-
-Programming  
-Python, R, SQL
-
-Data Analysis  
-Pandas, NumPy, data cleaning, exploratory data analysis (EDA), feature engineering, statistical analysis, hypothesis testing, data preprocessing, data wrangling
-
-Machine Learning  
-Scikit-learn, regression models, classification models, model evaluation, cross-validation, hyperparameter tuning, feature selection, imbalanced data handling, predictive modeling
-
-Data Visualization  
-Matplotlib, Seaborn, exploratory visual analysis, statistical plots, distribution analysis
-
-Deep Learning  
-TensorFlow, Keras, convolutional neural networks (CNNs), neural network training, image classification
-
-Data Management  
-SQL querying, relational databases, data extraction, dataset preparation
-
-Tools & Workflow  
-Git, GitHub, Jupyter Notebook, Python environments
-
-Concepts  
-Machine learning pipelines, model evaluation metrics, interpretability, statistical modeling, data-driven decision making
 
 ---
 
@@ -50,8 +22,3 @@ Data-driven decision making
 
 ---
 
-## Currently
-
-I am interested in opportunities where I can apply my technical skills to real-world data problems and continue developing as a data scientist.
-
----
